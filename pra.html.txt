@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset-"UTF-8">
+<meta name="viewport" content="width=device-width, initial scale=1.0>
+<title>Document</title>
+</head>
+<body>
+<header>
+<h1>AVANTI</h1>
+<p>Fresher</p>
+</header>
+<hr>
+<nav><a href="#about">About</a>
+<a href="#skill">Skills</a>
+<a href="#education">Education</a>
+<a href="#contact">Contact</a>
+<nav><hr>
+<section id="about">
+<h2>About me</h2>
+<img src="WhatsApp Image 2026-03-04 at 2.29.30 pm.jpeg" width="200" height="150">
+<p>I an dedicated web developer with knowledge of HTML CSS and JavaScript</p>  
+</section>
+<section id="skill">
+<h2>Skills</h2>
+<ul>
+<li>PYTHON</li>
+<li>CSS</li>
+<li>C++</li>
+</ul>
+</section>
+<section id="education">
+<h2>Education</h2>
+<table border="1" cellpadding="5" cellspacing="0">
+<tr>
+<th>Year</th>
+<th>Degree</th>
+<th>University</th>
+<th>CGPA</th>
+</tr> <tr> </tr>
+<td 2026</td>
+<td> B.Tech td>
+<td>RTMNU</td>
+<td>7.5</td>
+</table>
+</section>
+<section id="Contact"></section>
+<h2>Contact</h2>
+<p>Email: <a href="abcd@gmail.com">a@gmail.com</a></p>
+<footer>
+<p>&copy: 2026 AVANTI</p>
+</footer>
+</body>
+</html>
+
+
+
+
+
+
+
+
